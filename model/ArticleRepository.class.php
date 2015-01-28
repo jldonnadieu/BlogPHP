@@ -23,7 +23,7 @@ Class ArticleRepository{
 
 	/**
 	 *
-	 * @param unknown_type $id
+	 * @param unknown_type $id : integer, id of an article to get
 	 * @return Article
 	 */
 	public function get($id){
